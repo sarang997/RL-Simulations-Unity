@@ -1,4 +1,12 @@
 /Library
+/Logs
+/Packages
+/ProjectSettings
+/Temp
+/UserSettings
+/results
+/config/results
+
 # Ignore everything in the Assets folder
 Assets/*
 
