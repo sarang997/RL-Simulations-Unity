@@ -1,0 +1,7 @@
+/Library
+# Ignore everything in the Assets folder
+Assets/*
+
+# Un-ignore the specific files you want to keep
+!Assets/CarController.cs
+!Assets/SimpleAgent.cs
